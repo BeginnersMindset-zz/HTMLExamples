@@ -4,7 +4,11 @@ let doubleArray = ["test", "prod"]
 let trippleArray = ["sand", "test", "prod"]
 let quadArray = ["dev", "sand", "test", "prod"]
 
-
+//todo: what if elements in array are empty?
+//todo: what if elements in array are pseudo-empty?
+//todo: what about type-enforcing the input parameter to a true array?
+//todo: what about handling an Object and its properties?
+//todo: what about a serialized Object in JSON notation?
 function getWordList ( wordArray ){
     let listOfWords = ""
 
