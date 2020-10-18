@@ -23,7 +23,3 @@ function getWordList ( wordArray ){
 
     return listOfWords
 }
-
-//common JS data struct types
-
-//common JS funcs
